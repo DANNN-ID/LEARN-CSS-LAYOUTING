@@ -1,0 +1,31 @@
+.learning-title {
+   text-transform: uppercase;
+   text-align: center;
+   font-size: 40px;
+}
+.box-utama {
+   background-color: aqua;
+   margin: auto;
+   text-align: center;
+   padding: 20px;
+}
+.box-one, .box-two, .box-three {
+   border: 5px solid dimgray;
+   padding: 30px;
+   display: inline-block;
+   width: 300px;
+   height: 300px;
+   color: white;
+}
+.box-one {
+   background-color: brown;
+}
+.box-two {
+   background-color: darkgoldenrod;
+}
+.box-three {
+   background-color: darkorange;
+}
+h2 {
+   text-align: center;
+}

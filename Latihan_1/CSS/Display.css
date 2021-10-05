@@ -1,0 +1,26 @@
+.learning-title {
+   text-transform: uppercase;
+   text-align: center;
+   font-size: 40px;
+}
+.header {
+   background-color: crimson;
+}
+.navbar {
+   background-color: blueviolet;
+}
+.navbar li {
+   background-color: aqua;
+   display: inline;
+   text-align: right;
+}
+.navbar a {
+   font-weight: bold;
+   font-size: 20px;
+}
+.main-content {
+   background-color: gold;
+}
+.footer {
+   background-color: hotpink;
+}

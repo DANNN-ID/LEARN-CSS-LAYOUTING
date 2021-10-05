@@ -1,0 +1,17 @@
+.learning-title {
+   text-transform: uppercase;
+   text-align: center;
+   font-size: 40px;
+}
+.body-article {
+   background-color: red;
+   width: 100%;
+   height: 200px;
+   overflow: auto;
+}
+.content-article {
+   background-color: aqua;
+   font-size: 20px;
+   display: block;
+   width: 50%;
+}
